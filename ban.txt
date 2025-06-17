@@ -43,6 +43,7 @@
 
 # 第三方 PCDN 服务商
 ||smtcdns.net^
+||ksyungslb.com^
 ||gjfzpt.cn^
 ||szbdyd.com^
 ||bsccdn.net^
