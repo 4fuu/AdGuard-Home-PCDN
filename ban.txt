@@ -1,0 +1,56 @@
+# China PCDN 域名列表
+
+# 斗鱼
+||stun.douyucdn.cn^
+||stun1.douyucdn.cn^
+||dyp2p-ali.douyucdn.cn^
+||dyp2p-hw.douyucdn.cn^
+||dyp2p*.douyucdn.cn^
+||p2pchunk-hw.douyucdn.cn^
+||p2pchunk-table.douyucdn.cn^
+||p2pchunk-ws.douyucdn.cn^
+||p2perrorlog.douyucdn.cn^
+||p2plive-ali.douyucdn.cn^
+||p2plive-ws.douyucdn.cn^
+||p2plog.douyucdn.cn^
+||p2pvod-ws.douyucdn.cn^
+||p2p*.douyucdn.cn^
+
+# bilibili
+||mcdn.bilivideo.cn^
+
+# 爱奇艺
+||tpa-hcdn.iqiyi.com^
+
+# 芒果tv
+||stun.hitv.com^
+
+# 喜马拉雅
+||pcdn.xmcdn.com^
+
+# 快手
+||pcdn.yximgs.com^
+
+# 腾讯
+||p2p.qq.com^
+||p2ptun.qq.com^
+||p2pupdate.gamedl.qq.com^
+||p2pupgrade.gamedl.qq.com^
+||p2p*.qq.com^
+
+# 抖音/字节
+||bytefcdnrd.com^
+
+# 第三方 PCDN 服务商
+||smtcdns.net^
+||gjfzpt.cn^
+||szbdyd.com^
+||bsccdn.net^
+||pkoplink.com^
+||saxysec.com^
+||uhabo.com^
+||xycdn.com^
+||xinqiucc.com^
+||kuiniuca.com^
+||onethingpcs.com^
+||jomodns.cn^
