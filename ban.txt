@@ -42,7 +42,6 @@
 ||bytefcdnrd.com^
 
 # 第三方 PCDN 服务商
-||smtcdns.net^
 ||ksyungslb.com^
 ||gjfzpt.cn^
 ||szbdyd.com^
