@@ -41,6 +41,9 @@
 # 抖音/字节
 ||bytefcdnrd.com^
 
+# TCL
+pis-cnc-pcdn.cp31.ott.cibntv.net
+
 # 第三方 PCDN 服务商
 ||ksyungslb.com^
 ||gjfzpt.cn^
