@@ -5,7 +5,6 @@
 ||stun1.douyucdn.cn^
 ||dyp2p-ali.douyucdn.cn^
 ||dyp2p-hw.douyucdn.cn^
-||dyp2p*.douyucdn.cn^
 ||p2pchunk-hw.douyucdn.cn^
 ||p2pchunk-table.douyucdn.cn^
 ||p2pchunk-ws.douyucdn.cn^
@@ -14,10 +13,10 @@
 ||p2plive-ws.douyucdn.cn^
 ||p2plog.douyucdn.cn^
 ||p2pvod-ws.douyucdn.cn^
-||p2p*.douyucdn.cn^
 
 # bilibili
 ||mcdn.bilivideo.cn^
+||mcdn.bilivideo.com^
 
 # 爱奇艺
 ||tpa-hcdn.iqiyi.com^
@@ -36,7 +35,6 @@
 ||p2ptun.qq.com^
 ||p2pupdate.gamedl.qq.com^
 ||p2pupgrade.gamedl.qq.com^
-||p2p*.qq.com^
 
 # 抖音/字节
 ||hypercachenode.com^
