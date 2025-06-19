@@ -1,3 +1,3 @@
 # 随机 pcdn 域名 biliapi.net 的实验性白名单规则：https://github.com/4fuu/AdGuard-Home-PCDN/issues/2#issuecomment-2986683542
 # denyallow 修饰符自 v0.106.0 版本起可用
-||biliapi.net^$denyallow=api.biliapi.net|app.biliapi.net|grpc.biliapi.net
+||*.biliapi.net^$denyallow=api.biliapi.net|app.biliapi.net|grpc.biliapi.net
