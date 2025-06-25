@@ -18,6 +18,9 @@
 ||mcdn.bilivideo.cn^
 ||mcdn.bilivideo.com^
 
+# 优酷
+/^pis(?:-[^-]+)?-pcdn\.youku\.com$/
+
 # 爱奇艺
 ||tpa-hcdn.iqiyi.com^
 
